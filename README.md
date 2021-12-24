@@ -6,7 +6,7 @@ Authors: [Soham S. Phanse](mailto:19D170030@iitb.ac.in) [1], Pranjal Gupta [1],
 Solar eclipses are a topic of interest among astronomers, astrologers and the general public as well. There were and will be about 11898 eclipses in the 5 millennia from 2000 BC to 3000 AD. Data visualization and regression techniques offer a deep insight into how various parameters of a solar eclipse are related to each other. Physical models can be verified and can be updated based on the insights gained from the analysis. The study covers the major aspects of data analysis including data cleaning, pre-processing, EDA, distribution fitting, regression and machine learning based data analytics. 
 
 ## The Database
-A glimpse of the Database can be seen here:
+A glimpse of the Database we have processed from the original can be seen here:
 
 | Catalog_No. | Canon_Plate | Year_(t=0@0AD) | Month | Date | Days_from_the_last_eclipse | TDGE_from_00:00 | DT_(s) | Luna_Num | Saros_Num | Eclipse_Type | Gamma | Eclipse_Magnitude | Latitude | Longitude | Sun_Alt | Sun_Az | path_width | Total_Central_Duration_(s) | 
 | :-----------: | :-----------: | :--------------: | :-----: | :----: | :--------------------------: | :---------------: | :------: | :--------: | :---------: | :------------: | :-----: | :-----------------: | :--------: | :---------: | :-------: | :------: | :----------: | :--------------------------: | 
