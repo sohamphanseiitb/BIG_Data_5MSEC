@@ -17,7 +17,7 @@ A glimpse of the Database we have processed from the original can be seen here:
 | 5 | 1 | -1997 | 4 | 22 | 217 | 47996 | 46393 | -49433 | -13 | P | -1.4669999999999999 | 0.1611 | -60.6 | -106.4 | nan | 281 | nan | nan | 
 
 ## Analysis
-The Analysis, data visualization can be found in the report and are documented in detail. 
+The Analysis, data visualization can be found in the [report](https://github.com/sohamphanseiitb/Big_data_analysis_NASA_5-Millenia-Solar-Eclipses/blob/main/big_data_analysis_of_NASA's_5_millenium_solar_eclipse_database.pdf) and are documented in detail. The codes can be found [here](https://github.com/sohamphanseiitb/Big_data_analysis_NASA_5-Millenia-Solar-Eclipses/blob/main/big_data_analysis_of_NASA's_5_Millenium_Solar_Eclipse_codes.ipynb).
 
 ## References
 1.	“Eclipse Predictions by Fred Espenak and Jean Meeus (NASA's GSFC)”, NASA Technical Publication TP-2006-21414, 2009, https://eclipse.gsfc.nasa.gov/SEcat5/catalog.html,Accessed November 4, 2021
