@@ -1,5 +1,5 @@
 # Big Data Analysis of NASA's 5 Millenium Solar Eclipse Database
-Authors: [Soham S. Phanse](mailto:19D170030@iitb.ac.in) [1], Pranjal Gupta [1], 
+Authors: [Soham S. Phanse](mailto:19D170030@iitb.ac.in) [1], 
 [1] Department of Aerospace Engineering, Indian Institute of Technology Bombay
 
 [![DOI](https://zenodo.org/badge/432452134.svg)](https://zenodo.org/badge/latestdoi/432452134)
